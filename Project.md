@@ -14,7 +14,7 @@
 
 | Tasks | Assigned To |
 | :--- | :--- |
-| Proposal | All members |
-| Frontend Development | Lam Cheung Lam, Lin Chuen Ching |
-| Backend Development | Tam Ho Chun, Lo Kwok Ming |
-| Database Design | Poon Wing Lok |
+| Project Proposal | All members |
+| Frontend Development & UI Design  | Lam Cheung Lam, Lin Chuen Ching |
+| Backend API Development & Integration | Tam Ho Chun, Lo Kwok Ming |
+| Database Schema Design | Poon Wing Lok |
