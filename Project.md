@@ -7,8 +7,6 @@
 * **Lin Chuen Ching** - UID: 3035922996
 * **Lo Kwok Ming** - UID: 3036067004
 
----
-
 ## 2. Task Allocation
 
 | Tasks | Assigned To |
