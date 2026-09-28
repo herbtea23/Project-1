@@ -12,7 +12,7 @@
 
 ## 2. Task Allocation
 
-| Tasks | Assigned To |
+| Responsibility | Assigned To |
 | :--- | :--- |
 | Project Proposal | All members |
 | Frontend Development & UI Design  | Lam Cheung Lam, Lin Chuen Ching |
