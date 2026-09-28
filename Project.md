@@ -14,7 +14,7 @@
 
 | Responsibility | Assigned To |
 | :--- | :--- |
-| Project Proposal | All members |
-| Frontend Development & UI Design  | Lam Cheung Lam, Lin Chuen Ching |
+| Project Proposal Documentation | All Members (Compilation: Lin Chuen Ching) |
+| Frontend Development & UI Design | Lam Cheung Lam, Lin Chuen Ching |
 | Backend API Development & Integration | Tam Ho Chun, Lo Kwok Ming |
 | Database Schema Design | Poon Wing Lok |
